@@ -39,4 +39,4 @@ I help businesses consolidate fragmented data, automate manual reporting, and bu
 
 My approach focuses on understanding the business problem first, maintaining clear communication throughout development, and delivering well-documented solutions that remain reliable and maintainable over time.
 
-If that sounds like your project, send me a message on [LinkedIn](YOUR_LINKEDIN_URL) and tell me what you're working on.
+If that sounds like your project, send me a message on [LinkedIn](https://www.linkedin.com/in/cornelio-cardenas/) and tell me what you're working on.
